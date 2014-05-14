@@ -1,0 +1,53 @@
+<svg width="1000" height="1000" style="background-color: transparent"> 
+</svg>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+var NUM_ENTRIES = 105;
+var CELL_DIM = 1144 / NUM_ENTRIES;
+var simMatrix = [];
+
+var oReq = new XMLHttpRequest();
+oReq.open("GET", 'clustered_boston_matrix.txt', true);
+oReq.onload = function(e) {
+	var myText = oReq.responseText; 
+	var list = myText.split(",");
+
+	for (var lineIndex = 0; lineIndex < NUM_ENTRIES; ++lineIndex) {
+		var line = [];
+		for (var colIndex = 0; colIndex < NUM_ENTRIES; ++colIndex) {
+			line.push(list[NUM_ENTRIES*lineIndex + colIndex]);
+		}
+		simMatrix.push(line);
+	}
+
+	var svg = d3.select('svg');
+	var lines = svg.selectAll('.line').data(simMatrix);
+
+	lines.enter().append('g')
+		.classed('line', true)
+		.attr('transform', function(d, i) {
+				var xTranslation = 0;
+				var yTranslation = i * CELL_DIM;
+				console.log(d);
+				return 'translate(' + xTranslation + ', ' + yTranslation + ')';
+					});
+
+				var cells = lines.selectAll('.cell').data(function(lineInSimMatrix) { return lineInSimMatrix; });
+				cells.enter().append('rect').classed('cell', true)
+				.attr('x', function(d, i) {
+					if (i == 0) console.log(d);
+
+					return i * CELL_DIM;
+					})
+				.attr('y', 0)
+				.attr('width', CELL_DIM)
+				.attr('height', CELL_DIM)
+				.style('fill', 'green')
+				.style('fill-opacity', function(d, i) {
+					return d;
+					});
+}
+
+oReq.send();
+</script>
