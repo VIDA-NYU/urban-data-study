@@ -27,7 +27,8 @@ def loadIDs(outpath):
 
 def main(argv):
 	url = argv[0] #input
-	outpath = argv[1] #output
+  city = argv[1]
+	outpath = argv[2] #output
 	#Get the number of datasets
 	urlhandle = urllib.urlopen(url + '/api/views.json?count=True')
 	content = urlhandle.read()
@@ -35,12 +36,12 @@ def main(argv):
 	count = js['count']
 
 	#Output
-	meta_f = codecs.open(outpath + '/metadata.all.csv', 'a', 'utf-8')
-	tag_f = codecs.open(outpath + '/tags.csv', 'a', 'utf-8')
-	schema_f = codecs.open(outpath + '/schema.all.csv', 'a', 'utf-8')
-        id_tag_f = codecs.open(outpath + '/id_tag.csv', 'a', 'utf-8')
-        id_downloadcount_f = codecs.open(outpath + '/id_downloadcount.csv', 'a', 'utf-8')
-        id_viewcount_f = codecs.open(outpath + '/id_viewcount.csv', 'a', 'utf-8')
+	meta_f = codecs.open(outpath + '/' + city + '_metadata.all.csv', 'a', 'utf-8')
+	tag_f = codecs.open(outpath + '/' + city + '_tags.csv', 'a', 'utf-8')
+	schema_f = codecs.open(outpath + '/' + city + '_schema.all.csv', 'a', 'utf-8')
+        id_tag_f = codecs.open(outpath + '/' + city + '_id_tag.csv', 'a', 'utf-8')
+        id_downloadcount_f = codecs.open(outpath + '/' + city + '_id_downloadcount.csv', 'a', 'utf-8')
+        id_viewcount_f = codecs.open(outpath + '/' + city + '_id_viewcount.csv', 'a', 'utf-8')
 	
 	#Load id of the datasets whose metadatas were already retrieved
 	ids = loadIDs(outpath)

@@ -1,0 +1,2 @@
+HOWTORUN:
+  ./run.sh
