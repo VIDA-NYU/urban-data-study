@@ -1,0 +1,2269 @@
+traffic
+sustainability
+personnel
+cta
+chicago transit authority
+crime
+police
+permits
+facilities
+gis
+food
+inspections
+crime
+police
+tif
+public safety
+facilities
+gis
+buildings
+streets
+gis
+crime
+police
+facilities
+gis
+historical
+facilities
+gis
+business
+licenses
+current
+cta
+bus
+sustainability
+facilities
+gis
+budget
+facilities
+gis
+report cards
+cps
+crime
+police
+facilities
+gis
+budget
+personnel
+budget
+bicycling
+gis
+sustainability
+crime
+police
+housing
+crime
+police
+crime
+police
+streets
+permits
+facilities
+gis
+income
+education
+poverty
+unemployment
+deprecated
+gis
+shapefiles
+business
+licenses
+payments
+vendors
+boundaries
+gis
+shapefiles
+crime
+police
+workforce
+facilities
+gis
+crime
+police
+crime
+police
+street cleaning
+schedule
+2012
+boundaries
+gis
+shapefiles
+crime
+police
+crime
+police
+streets
+vehicles
+crime
+police
+crime
+police
+crime
+police
+vehicles
+streets
+crime
+police
+facilities
+gis
+crime
+police
+crime
+police
+safety
+inspections
+libraries
+facilities
+gis
+condoms
+boundaries
+gis
+shapefiles
+crime
+police
+budget
+2013
+crime
+police
+benchmarks
+gis
+budget
+2012
+garbage
+sanitation
+complaints
+boundaries
+gis
+shapefiles
+cta
+chicago transit authority
+permits
+budget
+personnel
+boundaries
+gis
+shapefiles
+traffic
+streets
+sustainability
+tif
+food
+inspections
+procurement
+vendors
+crime
+police
+boundaries
+gis
+shapefiles
+on_mondara
+budget
+personnel
+2012
+boundaries
+gis
+census
+shapefiles
+on_mondara
+traffic
+streets
+sustainability
+boundaries
+gis
+shapefiles
+on_mondara
+crime
+police
+ward
+gis
+facilities
+violations
+inspections
+city-owned land
+vacant property
+performance metrics
+service delivery
+graffiti
+streets
+gis
+shapefiles
+trees
+contracts
+procurement
+vehicles
+streets
+budget
+2013
+facilities
+gis
+boundaries
+gis
+shapefiles
+lobbyists
+ethics
+tif
+sbif
+sustainability
+business
+licenses
+bicycling
+gis
+sustainability
+pedestrians
+gis
+shapefiles
+sustainability
+on_mondara
+facilities
+gis
+shapefiles
+on_mondara
+personnel
+reimbursements
+performance metrics
+service delivery
+business
+licenses
+business
+licenses
+bicycling
+gis
+shapefiles
+sustainability
+performance metrics
+service delivery
+business
+licenses
+facilities
+gis
+historical
+forest preserves
+gis
+shapefiles
+sustainability
+cta
+public transit
+ridership
+facilities
+gis
+shapefiles
+lobbyists
+facilities
+gis
+libraries
+fiction
+tif
+tif
+tif
+tif
+tif
+boundaries
+gis
+census
+shapefiles
+on_mondara
+tif
+tif
+tif
+business
+licenses
+current
+gis
+shapefiles
+sustainability
+water
+graffiti
+food
+inspections
+boundaries
+gis
+shapefiles
+streets
+pot holes
+parks
+facilities
+gis
+shapefiles
+sustainability
+landmarks
+tourism
+gis
+benchmarks
+gis
+gis
+shapefiles
+cta
+rail
+sustainability
+cta
+public transit
+ridership
+traffic
+sustainability
+rodents
+rats
+cta
+boundaries
+gis
+shapefiles
+rail
+gis
+shapefiles
+buildings
+youth
+facilities
+gis
+boundaries
+gis
+census
+shapefiles
+on_mondara
+snow
+winter
+parking
+restrictions
+gis
+shapefiles
+tif
+boundaries
+gis
+on_mondara
+shapefiles
+birth
+health
+facilities
+gis
+shapefiles
+performance metrics
+service delivery
+human services
+budget
+facilities
+gis
+budget
+2013
+budget
+personnel
+2012
+violations
+gis
+shapefiles
+cta
+rail
+sustainability
+diabetes
+hospitalization
+chronic diseases
+cta
+public transit
+ridership
+performance metrics
+service delivery
+human services
+performance metrics
+ethics
+personnel
+health
+flu
+2012
+performance metrics
+service delivery
+human services
+performance metrics
+ethics
+lobbyists
+performance metrics
+service delivery
+human services
+streets
+lights
+sustainability
+boundaries
+gis
+shapefiles
+performance metrics
+service delivery
+human services
+lobbyists
+tif
+facilities
+gis
+gis
+parks
+sustainability
+tif
+birth
+teen
+maternal health
+permits
+facilities
+gis
+streets
+boundaries
+gis
+shapefiles
+budget
+2012
+boundaries
+gis
+shapefiles
+tif
+facilities
+gis
+tif
+tif
+ust
+ast
+tanks
+tif
+business
+boundaries
+gis
+shapefiles
+tif
+tif
+licenses
+transportation
+tif
+gis
+shapefiles
+bus
+cta
+sustainability
+tif
+tif
+crime
+police
+tif
+trees
+food
+events
+gis
+sustainability
+tif
+permits
+cta
+public transit
+ridership
+sustainability
+benchmarks
+gis
+benchmarks
+gis
+tif
+tif
+personnel
+gis
+shapefiles
+bus
+cta
+sustainability
+tif
+maternal and child health
+deaths
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+budget
+2013
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+food
+events
+gis
+sustainability
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+cta
+public transit
+ridership
+sustainability
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+cta
+public transit
+ridership
+sustainability
+boundaries
+gis
+kml
+sustainability
+energy
+asthma
+chronic
+hospitalization
+respiratory
+sustainability
+boundaries
+gis
+kml
+garbage
+cta
+public transit
+ridership
+sustainability
+lobbyists
+landmarks
+tourism
+gis
+cooling centers
+sustainability
+public transit
+rail
+gis
+shapefiles
+sustainability
+performance metrics
+ethics
+lobbyists
+gis
+shapefiles
+kml
+performance metrics
+technology
+personnel
+birth
+maternal health
+care
+boundaries
+gis
+census
+shapefiles
+on_mondara
+county
+facilities
+gis
+shapefiles
+environmental complaints
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+environmental permits
+workforce
+facilities
+gis
+libraries
+nonfiction
+zoning
+gis
+shapefiles
+boundaries
+boundaries
+gis
+shapefiles
+lobbyists
+boundaries
+gis
+shapefiles
+public transit
+rail
+gis
+shapefiles
+sustainability
+landmarks
+tourism
+gis
+shapefiles
+landmarks
+tourism
+gis
+streets
+vehicles
+lobbyists
+environmental inspections
+boundaries
+gis
+shapefiles
+cta
+public transit
+rail
+stations
+sustainability
+gis
+parks
+sustainability
+sti
+std
+sexually transmitted
+budget
+personnel
+2012
+pedestrians
+gis
+shapefiles
+sustainability
+health
+flu
+2012
+boundaries
+gis
+shapefiles
+sustainability
+food
+events
+gis
+sustainability
+lobbyists
+performance metrics
+service delivery
+sti
+std
+sexually transmitted
+streets
+alleys
+lights
+streets
+lights
+facilities
+gis
+shapefiles
+boundaries
+gis
+shapefiles
+food
+events
+gis
+shapefiles
+sustainability
+boundaries
+gis
+census
+kml
+on_mondara
+gis
+kml
+facilities
+education
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+lobbyists
+boundaries
+gis
+kml
+parks
+facilities
+gis
+kml
+sustainability
+bicycling
+gis
+kml
+sustainability
+cta
+public transit
+rail
+gis
+kml
+sustainability
+cta
+public transit
+rail
+stations
+sustainability
+facilities
+boundaries
+gis
+shapefiles
+cta
+public transit
+bus
+gis
+kml
+sustainability
+county
+facilities
+gis
+shapefiles
+gis
+kml
+transportation
+on_mondara
+cta
+public transit
+bus
+gis
+kml
+sustainability
+cta
+public transit
+bus
+sustainability
+cta
+public transit
+rail
+kml
+gis
+sustainability
+public transit
+rail
+gis
+kml
+sustainability
+gis
+shapefiles
+schools
+education
+cps
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+performance metrics
+service delivery
+business
+licenses
+elections
+service requests
+pothole
+performance metrics
+streets
+pavement
+lobbyists
+ethics
+county
+facilities
+gis
+shapefiles
+lobbyists
+performance metrics
+libraries
+recycling
+gis
+streets
+street cleaning
+parking restrictions
+gis
+shapefiles
+sti
+std
+sexually transmitted
+lobbyists
+ethics
+performance metrics
+service delivery
+graffiti
+pedestrians
+gis
+kml
+sustainability
+on_mondara
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+performance metrics
+business
+sbif
+payments
+boundaries
+gis
+kml
+on_mondara
+lust
+nfr
+thorium
+radiation
+highway authority agreement
+tif
+lobbyists
+lobbyists
+boundaries
+gis
+shapefiles
+lobbyists
+lobbyists
+ethics
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+county
+gis
+shapefiles
+sustainability
+open spaces
+placemaking
+gis
+shapefiles
+sustainability
+permits
+public transit
+rail
+gis
+kml
+sustainability
+boundaries
+gis
+kml
+lobbyists
+ethics
+sustainability
+sustainability
+transportation
+gis
+shapefiles
+boundaries
+environmental enforcement
+performance metrics
+service delivery
+human services
+lobbyists
+ethics
+gis
+shapefiles
+parking
+cta
+sustainability
+county
+gis
+shapefiles
+libraries
+visitors
+lobbyists
+ethics
+county
+forest preserves
+gis
+shapefiles
+sustainability
+facilities
+gis
+internet
+performance metrics
+revenue
+gis
+shapefiles
+boundaries
+education
+cps
+performance metrics
+service delivery
+street lights
+cta
+public transit
+rail
+sustainability
+tif
+boundaries
+gis
+kml
+on_mondara
+cta
+public transit
+sustainability
+landmarks
+tourism
+gis
+kml
+performance metrics
+service delivery
+traffic light
+outage
+performance metrics
+service delivery
+garbage
+sanitation
+complaints
+gis
+shapefiles
+landmarks
+invoices
+permits
+performance metrics
+service delivery
+rodents
+rats
+boundaries
+gis
+census
+kml
+on_mondara
+cta
+kml
+rail
+station
+sustainability
+parks
+facilities
+chicago park district
+parks & recreation
+recreation
+chicago
+park
+district
+features
+facilities & features
+sustainability
+boundaries
+gis
+kml
+open spaces
+placemaking
+gis
+kml
+sustainability
+cta
+kml
+transit
+bus stop
+sustainability
+lobbyists
+gis
+shapefiles
+bus
+cta
+performance metrics
+libraries
+circulation
+performance metrics
+service delivery
+garbage
+performance metrics
+procurement
+performance metrics
+buildings
+permits
+service delivery
+streets
+street cleaning
+parking restrictions
+gis
+kml
+budget
+gis
+kml
+sustainability
+water
+gis
+shapefiles
+elections
+county
+gis
+shapefiles
+county
+highways
+streets
+gis
+shapefiles
+tif
+county
+facilities
+gis
+kml
+gis
+parks
+performance metrics
+libraries
+circulation
+streets
+boundaries
+gis
+kml
+rail
+gis
+kml
+ward
+gis
+facilities
+performance metrics
+service delivery
+cooling centers
+sustainability
+performance metrics
+education
+performance metrics
+service delivery
+cdph
+health
+immunization
+vaccine
+cta
+kml
+stations
+rail
+parking
+park and ride
+park n ride
+sustainability
+zoning
+gis
+kml
+boundaries
+gis
+shapefiles
+cta
+sustainability
+performance metrics
+buildings
+permits
+service delivery
+sustainability
+county
+highways
+streets
+gis
+shapefiles
+cta
+public transit
+bus
+gis
+kml
+boundaries
+gis
+shapefiles
+cta
+chicago transit authority
+county
+forest preserves
+gis
+shapefiles
+sustainability
+performance metrics
+business
+sbif
+buildings
+permits
+service delivery
+libraries
+visitors
+performance metrics
+buildings
+permits
+performance metrics
+parks
+performance metrics
+parks
+sustainability
+performance metrics
+zoning
+permits
+performance metrics
+ethics
+personnel
+performance metrics
+service delivery
+human services
+county
+forest preserves
+gis
+shapefiles
+sustainability
+garbage
+sanitation
+complaints
+performance metrics
+signs
+service delivery
+alcohol
+drugs
+substance abuse
+performance metrics
+education
+cta
+kml
+rail
+sustainability
+city-owned land
+vacant property
+landmarks
+tourism
+boundaries
+gis
+kml
+cta
+kml
+bus
+route
+sustainability
+open spaces
+placemaking
+gis
+kml
+sustainability
+gis
+shapefiles
+landmarks
+pedestrians
+gis
+kml
+sustainability
+libraries
+programs
+summer reading
+children
+county
+facilities
+gis
+kml
+performance metrics
+service delivery
+business
+licenses
+performance metrics
+service delivery
+cdph
+cps
+oral health
+dentist
+kml
+sustainability
+libraries
+technology
+computer sessions
+open spaces
+placemaking
+gis
+kml
+sustainability
+lobbyists
+performance metrics
+ethics
+personnel
+cta
+chicago transit authority
+snow
+winter
+parking
+restrictions
+gis
+shapefiles
+bicycling
+gis
+shapefiles
+sustainability
+cta
+chicago transit authority
+cta
+public transit
+sustainability
+county
+forest preserves
+gis
+shapefiles
+sustainability
+performance metrics
+service delivery
+human services
+gis
+shapefiles
+facilities
+sustainability
+performance metrics
+parks
+parks
+recreation
+buildings
+park buildings
+chicago
+chicago parks
+chicago park district
+park district
+sustainability
+boundaries
+gis
+kml
+on_mondara
+performance metrics
+ethics
+lobbyists
+open spaces
+placemaking
+gis
+kml
+sustainability
+pedestrians
+sustainability
+gis
+shapefiles
+kml
+kmz
+map_layer
+gis
+kml
+landmarks
+performance metrics
+service delivery
+trees
+performance metrics
+service delivery
+human services
+facilities
+gis
+internet
+gis
+shapefiles
+cta
+bus
+county
+gis
+kml
+gis
+shapefiles
+buildings
+sustainability
+county
+gis
+kml
+sustainability
+libraries
+holds
+gis
+shapefiles
+kml
+kmz
+boundaries
+gis
+kml
+liquor
+gis
+shapefiles
+lobbyists
+performance metrics
+service delivery
+cdph
+health
+lead
+gis
+shapefiles
+boundaries
+education
+cps
+boundaries
+gis
+kml
+cta
+public transit
+gis
+kml
+sustainability
+performance metrics
+permits
+landmarks
+shapefiles
+sustainability
+county
+highways
+streets
+gis
+kml
+food
+events
+gis
+sustainability
+performance metrics
+housing
+performance metrics
+service delivery
+cdph
+health
+sti
+clinic
+food
+events
+gis
+kml
+sustainability
+snow
+winter
+parking
+restrictions
+gis
+kml
+performance metrics
+parks
+sustainability
+performance metrics
+service delivery
+human services
+traffic
+sustainability
+performance metrics
+service delivery
+human services
+sustainability
+transportation
+county
+gis
+kml
+licenses
+transportation
+tif
+revenues
+expenditures
+gis
+kml
+boundaries
+education
+cps
+libraries
+technology
+computer sessions
+boundaries
+gis
+kml
+open spaces
+placemaking
+gis
+kml
+sustainability
+gis
+kml
+boundaries
+education
+cps
+performance metrics
+service delivery
+business
+licenses
+performance metrics
+service delivery
+business
+licenses
+lobbyists
+ethics
+cta
+public transit
+gis
+kml
+sustainability
+cta
+public transit
+bus
+gis
+kml
+boundaries
+gis
+kml
+county
+facilities
+gis
+kml
+tif
+performance metrics
+service delivery
+technology
+sustainability
+energy
+traffic
+streets
+boundaries
+gis
+kml
+sustainability
+performance metrics
+parks
+performance metrics
+service delivery
+technology
+performance metrics
+service delivery
+human services
+county
+forest preserves
+gis
+kml
+sustainability
+performance metrics
+service delivery
+cdph
+health
+sti
+clinic
+tif
+libraries
+holds
+performance metrics
+service delivery
+technology
+county
+forest preserves
+gis
+kml
+sustainability
+open spaces
+placemaking
+gis
+kml
+sustainability
+water
+alcohol
+drugs
+substance abuse
+performance metrics
+housing
+gis
+kml
+elections
+lobbyists
+ethics
+performance metrics
+ethics
+lobbyists
+tif
+lobbyists
+ethics
+gis
+boundaries
+shapefiles
+kml
+kmz
+gis
+shapefiles
+boundaries
+education
+cps
+gis
+kml
+schools
+education
+cps
+libraries
+holds
+lobbyists
+ethics
+lobbyists
+ethics
+county
+highways
+streets
+gis
+kml
+gis
+kml
+landmarks
+libraries
+holds
+tif
+lobbyists
+ethics
+boundaries
+gis
+kml
+performance metrics
+service delivery
+technology
+tif
+tif
+gis
+kml
+boundaries
+police
+boundaries
+gis
+shapefiles
+kml
+gis
+shapefiles
+public art
+boundaries
+gis
+kml
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+libraries
+programs
+summer reading
+tif
+licenses
+transportation
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+cta
+kml
+bus
+garage
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+gis
+shapefiles
+boundaries
+liquor
+snow
+winter
+parking
+restrictions
+gis
+kml
+public art
+tif
+tif
+boundaries
+deprecated
+recycling
+shapefiles
+sustainability
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+boundaries
+education
+cps
+cta
+kml
+bus
+turnraound
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+boundaries
+gis
+shapefiles
+kml
+gis
+shapefiles
+facilities
+tif
+tif
+county
+forest preserves
+gis
+kml
+sustainability
+lobbyists
+ethics
+tif
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+police
+boundaries
+gis
+shapefiles
+kml
+business
+boundaries
+deprecated
+gis
+shapefiles
+kml
+kmz
+recycling
+shapefiles
+kml
+gis
+sustainability
+recycling
+shapefiles
+sustainability
+liquor
+gis
+kml
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+shapefiles
+boundaries
+kml
+kmz
+census
+map_layer
+tif
+fund balance
+tif
+tif
+tif
+county
+forest preserves
+gis
+kml
+sustainability
+tif
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+tif
+tif
+tif
+boundaries
+deprecated
+kml
+recycling
+sustainability
+gis
+shapefiles
+boundaries
+education
+cps
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+revenues
+expenditures
+tif
+tif
+tif
+tif
+tif
+tif
+recycling
+gis
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+buildings
+sustainability
+gis
+shapefiles
+boundaries
+education
+cps
+tif
+tif
+tif
+sustainability
+energy
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+revenues
+expenditures
+gis
+shapefiles
+boundaries
+kml
+kmz
+census
+map_layer
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+liquor
+gis
+kml
+tif
+gis
+kml
+boundaries
+education
+cps
+gis
+shapefiles
+liquor
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+boundaries
+education
+cps
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+condoms
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+facilities
+sustainability
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+boundaries
+education
+cps
+tif
+kml
+recycling
+sustainability
+libraries
+programs
+summer reading
+children
+tif
+tif
+tif
+tif
+liquor
+gis
+kml
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+boundaries
+gis
+shapefiles
+tif
+weather relief
+sustainability
+warming centers
+tif
+tif
+tif
+tif
+tif
+tif
+tif
+gis
+kml
+boundaries
+education
+cps
+boundaries
+gis
+shapefiles
+kml
+environmental inspections
+tif
+tif
+tif
+tif
+gis
+kml
+public art
+gis
+kml
+boundaries
+education
+cps
+gis
+kml
+boundaries
+education
+cps
+gis
+kml
+boundaries
+education
+cps
+gis
+kml
+boundaries
+education
+cps
+gis
+kml
+boundaries
+education
+cps
+business
+boundaries
+gis
+shapefiles
+kml
+kmz
+gis
+shapefiles
+boundaries
+kml
+kmz
+street cleaning
+schedule
+2013
+parking restrictions
+performance metrics
+libraries
+circulation
+gis
+kml
+boundaries
+education
+cps
+gis
+kml
+facilities
+gis
+kml
+boundaries
+education
+cps
+tif
+tif
+traffic
+sustainability
+sustainability
+transportation
+gis
+kml
+boundaries
+education
+cps
+gis
+shapefiles
+boundaries
+kml
+kmz
+census
+map_layer
+food
+events
+gis
+sustainability
+boundaries
+deprecated
+gis
+recycling
+sustainability
+food
+events
+gis
+sustainability
+gis
+shapefiles
+boundaries
+kml
+kmz
+map_layer
+libraries
+holds
+traffic
+sustainability
+gis
+shapefiles
+boundaries
+kml
+kmz
+census
+map_layer
+libraries
+holds
+libraries
+technology
+computer sessions
+traffic
+sustainability
+gis
+kml
+boundaries
+education
+cps
+kmz
+map_layer
+shapefile
+food
+food desert
+sustainability
+energy
+budget
+food
+food desert
+health
+flu
+2013
+food
+food desert
+food
+food desert
+food
+urban farm
+sustainability
+food
+urban farm
+sustainability
+food
+food desert
+boundaries
+gis
+kml
+shapefiles
+tif
+map_layer
+street cleaning
+schedule
+2013
+parking restrictions
+crime
+police
+benchmarks
+gis
+sustainability
+energy
+sustainability
+energy
+gis
+kml
+schools
+education
+cps
+kmz
+map_layer
+shapefile
+food
+food desert
+city council
+elections
+libraries
+visitors
+gis
+kml
+boundaries
+education
+cps
+kmz
+map_layer
+shapefile
+boundaries
+gis
+kml
+kmz
+shapefiles
+map_layer
+libraries
+facilities
+gis
+cta
+public transit
+streets
+pot holes
+cps
+education
+report cards
+health
+flu
+2013
+food
+gis
+shapefiles
+kml
+kmz
+schools
+food
+food desert
+census
+population
+food
+food desert
+food
+food desert
+cta
+transit
+kml
+transportation
+fare media
+ventra
+bus
+rail
+pedestrians
+sustainability
+gis
+shapefiles
+kml
+kmz
+map_layer
+food
+food desert
+budget
+2014
+budget
+2014
+cps
+education
+gis
+kml
+shapefiles
+transportation
+map_layer
+health
+flu
+2013
+health
+flu
+2013
+budget
+2014
+cps
+education
+report cards
+cps
+education
+report cards
+recycling
+sustainability
+recycling
+sustainability
+budget
+2014
+boundaries
+gis
+shapefiles
+kml
+kmz
+map_layer
+landmarks
+tourism
+gis
+kml
+kmz
+shapefiles
+map_layer
+cta
+transit
+kml
+transportation
+fare media
+ventra
+bus
+rail
+cps
+education
+facilities
+boundaries
+gis
+kml
+kmz
+shapefiles
+map_layer
