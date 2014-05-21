@@ -3,12 +3,12 @@
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
-var NUM_ENTRIES = 713;
-var CELL_DIM = 1426 / NUM_ENTRIES;
+var NUM_ENTRIES = 105;
+var CELL_DIM = 1144 / NUM_ENTRIES;
 var simMatrix = [];
 
 var oReq = new XMLHttpRequest();
-oReq.open("GET", 'no311_nyc_matrix.txt', true);
+oReq.open("GET", 'boston.txt', true);
 oReq.onload = function(e) {
 	var myText = oReq.responseText; 
 	var list = myText.split(",");
