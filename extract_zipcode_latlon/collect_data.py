@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-from __future__ import unicode_literals
+from __fileuture__ import unicode_literals
 import json
 import sys
 import ijson
@@ -56,69 +56,82 @@ def get_latlon(f):
 				else:	
 					id2index[id] = [[], index_list, []] #first list contains zipcode, second list contains latlon, third list contains time
 
+def get_data(output_path, data_path, city, id):
+  global id2index
 
+  #Open files to write
+  #OUTPUT: *zipcode.csv and *latlon.csv store list of zipcode and lat/long respectively
+  zipcode_file = open(output_path + "/" + city + "_" + id + "-zipcode.csv", "w")
+  latlon_file = open(output_path + "/" + city + "_" + id + "-latlon.csv", "w")
 
-def get_data(city, id):
-	global id2index
-	#Open files
-	zipcode_f = open(city + "/" + id + "-zipcode.csv", "w")
-	latlon_f = open(city + "/" + id + "-latlon.csv", "w")
+  #Initialize sets. Set contains distinct values
+  zipcode_set = []
+  latlon_set = []
 
-	#Initialize sets. Set contains distinct values
-	zipcode_set = []
-	latlon_set = []
+  index = id2index[id]
+  zipcode_index = index[0]
+  latlon_index = index[1]
 
-	index = id2index[id]
-	zipcode_index = index[0]
-	latlon_index = index[1]
+  content = open(data_path + "/" + id + ".json")
+  data = ijson.items(content, 'data.item')
+  Zipcode = re.compile('([\d]{5})')
+  try:
+    for item in data:
+      item = item[8:]
+      if len(zipcode_index) > 0: #If there is zipcode attribute
+        for i in zipcode_index:#for each dataset, there could be more than row containing zipcode
+          if item[i]: #if value is not None
+            match_zipcode = Zipcode.search(str(item[i]))
+            if match_zipcode:
+              zipcode = match_zipcode.group(1)
+              zipcode_set.append(zipcode)
+      elif len(latlon_index) == 2: #if there are lat/lon attributes
+        lat = item[latlon_index[0]]
+        lon = item[latlon_index[1]]
+        if (lat != None) & (lon != None): # if values are not None
+          latlon = lat + "," + lon
+          latlon_set.append(latlon)
+  except:
+    print id + "\tException"
+  #Write to file
+  if len(zipcode_set) > 0:
+    for item in zipcode_set:
+      try:
+        zipcode_file.write(item + "\n")
+      except:
+        print id + "\tException"
+        continue
+  if len(latlon_set) > 0:
+    for item in latlon_set:
+      try:
+        latlon_file.write(item + "\n")		
+      except:
+        print id + "\tException"
+        continue
+  zipcode_file.close()
+  latlon_file.close()
 
-	content = open("../download/" + city + "/" + id + ".json")
-	data = ijson.items(content, 'data.item')
-	Zipcode = re.compile('([\d]{5})')
-	try:
-		for item in data:
-			item = item[8:]
-			if len(zipcode_index) > 0: #If there is zipcode attribute
-				for i in zipcode_index:#for each dataset, there could be more than row containing zipcode
-					if item[i]: #if value is not None
-						match_zipcode = Zipcode.search(str(item[i]))
-                                                if match_zipcode:
-                                                        zipcode = match_zipcode.group(1)
-                                                        zipcode_set.append(zipcode)
-			elif len(latlon_index) == 2: #if there are lat/lon attributes
-				lat = item[latlon_index[0]]
-				lon = item[latlon_index[1]]
-				if (lat != None) & (lon != None): # if values are not None
-					latlon = lat + "," + lon
-					latlon_set.append(latlon)
-	except:
-		print id + "\tException"
-	#Write to file
-	if len(zipcode_set) > 0:
-		for item in zipcode_set:
-			try:
-				zipcode_f.write(item + "\n")
-			except:
-				print id + "\tException"
-				continue
-	if len(latlon_set) > 0:
-		for item in latlon_set:
-			try:
-				latlon_f.write(item + "\n")		
-			except:
-				print id + "\tException"
-				continue
-	zipcode_f.close()
-	latlon_f.close()
+def main(argv):
+  if len(argv) != 3:
+    print "The program takes 3 arguments, " + str(len(argv)) + " is given."
+    return
 
-city = sys.argv[1]
-zipcode_f = city + "/id_zipcode_index.csv"
-latlon_f = city + "/id_latlon_index.csv"
+  city = argv[0] #City name
+  data_path = argv[1] #Directory that store JSON files
+  output_path = argv[2] #Directory that stores result
 
-#GLOBAL variable
-id2index = {} #Each id is mapped to 3 lists. first list contains zipcode, second list contains latlon, third list contains time
+  zipcode_file = "index/" + city + "_zipcode_index.csv"
+  latlon_file = "index/" + city + "_latlon_index.csv"
+  if (not os.path.isfile(zipcode_file)) | (not os.path.isfile(latlon_file)):
+    return
 
-get_zipcode(zipcode_f)
-get_latlon(latlon_f)
-for id in id2index:
-	get_data(city, id)
+  #GLOBAL variable
+  id2index = {} #Each id is mapped to 3 lists. first list contains zipcode, second list contains latlon, third list contains time
+
+  get_zipcode(zipcode_file)
+  get_latlon(latlon_file)
+  for id in id2index:
+    get_data(output, data_path, city, id)
+
+if __name__=="__main__":
+  main(sys.argv[1:])
