@@ -1,0 +1,49 @@
+ys2m-44iv	latitude	14	longitude	15
+tdab-kixi	latitude	6	longitude	7
+hwmb-iu8j	latitude	12	longitude	13	location	14
+qnrb-dui6	latitude	16	longitude	17
+mh59-yhwm	latitude	15	longitude	16
+n4j6-wkkf	start_lon	8	_lif_lat	9	_lit_lon	10	_lit_lat	11
+a95h-gwzm	latitude	19	longitude	20
+7wwb-3vgm	latitude	15	longitude	16
+hu6v-hsqb	latitude	10	longitude	11
+pa8e-mhbh	lat	6	lon	7
+c6au-zpvv	latitude	17	longitude	18
+7rz2-h8u9	latitude	10	longitude	11
+cbyb-69xx	latitude	6	longitude	7	f12	9	f13	10
+kmt9-pg57	latitude	9	longitude	10
+pfsx-4n4m	latitude	6	longitude	7
+q3z3-udcz	latitude	12	longitude	13
+qqw2-hwkh	latitude	15	longitude	16
+awnt-66py	latitude	15	longitude	16
+4ndg-wq3w	latitude	6	longitude	7
+hx8q-mf9v	latitude	18	longitude	20
+xa2r-bcfc	latitude	15	longitude	16
+c4ep-ee5m	latitude	15	longitude	16
+4ywc-hr3a	latitude	6	longitude	7	f12	9	f13	10
+mw4h-s8xu	longitude	6	latitude	7
+4x56-dvnp	latitude	9	longitude	10
+q4de-h6yq	latitude	15	longitude	16
+58td-isfp	latitude	10	longitude	11
+dfnk-7re6	latitude	14	longitude	15
+pf56-35rv	latitude	6	longitude	7
+37g7-p8eh	latitude	9	longitude	10
+t2qc-9pjd	_west	2	_east	3	_south	4	_north	5
+5cq6-qygt	longitude	6	latitude	7
+2u2y-n6dm	location	12
+zjqd-uvky	latitude	15	longitude	16
+vfd5-f3kt	latitude	9	longitude	10
+9i8j-865n	latitude	10	longitude	11
+8v97-unyc	latitude	15	longitude	16
+i6k7-i6md	latitude	15	longitude	16
+habu-n236	latitude	6	longitude	7
+bj7p-98q2	latitude	17	longitude	18
+zgvr-7yfd	latitude	9	longitude	10
+x2n5-8w5q	latitude	14	longitude	15
+vaxn-3ims	latitude	15	longitude	16
+u23m-pa73	latitude	12	longitude	13
+4guy-sfss	latitude	15	longitude	16
+atzs-u7pv	latitude	10	longitude	11
+i8y3-ytj4	latitude	10	longitude	11
+ag7u-gr9m	lat	6	lon	7
+g9qy-h66j	latitude	15	longitude	16

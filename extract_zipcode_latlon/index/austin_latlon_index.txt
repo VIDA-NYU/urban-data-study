@@ -1,0 +1,15 @@
+b4y9-5x39	longitude	6	latitude	7
+64cq-wf5u	y	2	x	3
+nq9x-w8sx	lat_dd_wgs84	19	lon_dd_wgs84	20
+szku-46rx	y	2	x	3
+jbaf-xebm	lat_dd_wgs84	19	lon_dd_wgs84	20
+r6sg-xka2	longitude	6	latitude	7
+gr59-ids7	longitude	6	latitude	7
+r5kt-xq3y	lat_dd_wgs84	5	lon_dd_wgs84	6
+3gc4-g537	latitude	6	longitude	7
+ei2n-fehk	longitude	6	latitude	7
+4c6h-tv2y	longitude	6	latitude	7
+ga9y-ypai	lat_dd_wgs84	19	lon_dd_wgs84	20
+tx8s-62r6	lat_dd_wgs84	19	lon_dd_wgs84	20
+5gjn-nmcf	latitude	5	longitude	6
+b6cd-bhbk	lat_dd_wgs84	5	lon_dd_wgs84	6

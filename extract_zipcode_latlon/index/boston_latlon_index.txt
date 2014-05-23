@@ -1,0 +1,6 @@
+9yb5-8pvg	location_x	23	location_y	24
+9tfg-3jic	coordinates	4
+snj3-z8hh	coordinates	5
+23yb-cufe	centroidx	2	centroidy	3
+7idu-4tds	coordinates	4
+ekiy-2qmz	coordinates	5

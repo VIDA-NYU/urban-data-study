@@ -1,0 +1,10 @@
+khxu-spqg	zip	9
+n3gw-htbc	zipcode	12
+m6tf-bxss	zip	10
+4enm-t3vn	zip	10
+qmtq-5rpt	city_state_zip	9
+zn5m-qb7h	zip	12
+r9tj-tvtt	city_state_zip	9
+c3ri-wwcn	city_state_zip	8
+5iir-m2en	zip	4	zipcode	5
+evxh-x3jp	city_state_zip	8

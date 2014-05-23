@@ -1,0 +1,20 @@
+u3yy-shmz	association_zip_code	3	primary_contact_zipcode	8	secondary_contact_zipcode	13
+hqa6-stx4	zip_code	1
+9bpw-2ysw	zip_code	13
+ur6a-fvpc	zip	9
+ajpy-mwjj	zip_code	1
+gzyt-t2by	zip_code	1
+rfif-mmvg	zip	9
+gt3n-akq9	zip4	297	zip5	298
+nmp9-45v2	giinstalledzip	8
+3ebq-e9iz	zip	18
+rb6p-jsp4	zip	9
+3w87-zbw7	zip	9
+ecmv-9xxi	zip_code	1
+nynz-w2da	zip	9
+b73m-kiye	zip_code	1
+ct7f-fbbn	primary_contact_zipcode	9	secondary_contact_zipcode	14
+qzi7-nx8g	zip_code	13
+g9bx-8meu	zip_code	1
+iuw2-kwij	zipcode	0
+8zu2-guks	zip	9

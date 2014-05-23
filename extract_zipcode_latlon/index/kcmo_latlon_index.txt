@@ -1,0 +1,10 @@
+4bd6-gqwq	building_latitude	15	building_longitude	16
+d6ps-dq2e	intptlat10	16	intptlon10	17
+wbx5-smj6	intptlat	11	intptlon	12
+8ejy-sj4q	intptlat	7	intptlon	8
+isk8-6s6i	intptlat10	16	intptlon10	17
+byps-gsbw	centroid_latitude	8	centroid_longitude	9
+rtst-p7t3	intptlat	16	intptlon	17
+2mjh-qv84	building_latitude	15	building_longitude	16
+ex28-gm4e	building_latitude	15	building_longitude	16
+miam-vibb	centroid_latitude	8	centroid_longitude	9

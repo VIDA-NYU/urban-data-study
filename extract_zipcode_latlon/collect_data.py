@@ -1,13 +1,13 @@
 # -*- coding:utf-8 -*-
-from __fileuture__ import unicode_literals
+from __future__ import unicode_literals
 import json
 import sys
 import ijson
 import codecs
 import re
+import os.path
 
-def get_zipcode(f):
-	global id2index
+def get_zipcode(f, id2index):
 	with open(f) as lines:
 		for line in lines:
 			a = line.strip("\n").split("\t")
@@ -21,8 +21,7 @@ def get_zipcode(f):
 			else:	
 				id2index[id] = [index_list, [], []] #first list contains zipcode, second list contains latlon, third list contains time
 
-def get_latlon(f):
-	global id2index
+def get_latlon(f, id2index):
 	lat = ["latitude", "x", "lat_dd_wgs84", "location_x", "centroidx", "coordinates", "lat", "location", "_lit_lat", "_south", "stop_lat", "building_latitude", "centroid_latitude", "intptlat", "intptlat10", "xpos", "_47_564727820", "x"]
 	lon = ["longitude", "y", "lon_dd_wgs84", "location_y", "centroidy", "coordinates", "lon", "location", "_lit_lon", "_west", "stop_lon", "building_longitude", "centroid_longitude", "intptlon", "intptlat10", "ypos", "_122_363840492", "y"]
 	with open(f) as lines:
@@ -56,13 +55,11 @@ def get_latlon(f):
 				else:	
 					id2index[id] = [[], index_list, []] #first list contains zipcode, second list contains latlon, third list contains time
 
-def get_data(output_path, data_path, city, id):
-  global id2index
-
+def get_data(output_path, data_path, city, id, id2index):
   #Open files to write
   #OUTPUT: *zipcode.csv and *latlon.csv store list of zipcode and lat/long respectively
-  zipcode_file = open(output_path + "/" + city + "_" + id + "-zipcode.csv", "w")
-  latlon_file = open(output_path + "/" + city + "_" + id + "-latlon.csv", "w")
+  zipcode_file = open(output_path + "/" + city + "_" + id + "-zipcode.txt", "w")
+  latlon_file = open(output_path + "/" + city + "_" + id + "-latlon.txt", "w")
 
   #Initialize sets. Set contains distinct values
   zipcode_set = []
@@ -120,18 +117,16 @@ def main(argv):
   data_path = argv[1] #Directory that store JSON files
   output_path = argv[2] #Directory that stores result
 
-  zipcode_file = "index/" + city + "_zipcode_index.csv"
-  latlon_file = "index/" + city + "_latlon_index.csv"
-  if (not os.path.isfile(zipcode_file)) | (not os.path.isfile(latlon_file)):
-    return
-
-  #GLOBAL variable
-  id2index = {} #Each id is mapped to 3 lists. first list contains zipcode, second list contains latlon, third list contains time
-
-  get_zipcode(zipcode_file)
-  get_latlon(latlon_file)
-  for id in id2index:
-    get_data(output, data_path, city, id)
+  zipcode_file = "index/" + city + "_zipcode_index.txt"
+  latlon_file = "index/" + city + "_latlon_index.txt"
+  print zipcode_file
+  print latlon_file
+  if (os.path.isfile(zipcode_file)) & (os.path.isfile(latlon_file)):
+    id2index = {} #Each id is mapped to 3 lists. first list contains zipcode, second list contains latlon, third list contains time
+    get_zipcode(zipcode_file, id2index)
+    get_latlon(latlon_file, id2index)
+    for id in id2index:
+      get_data(output_path, data_path, city, id, id2index)
 
 if __name__=="__main__":
   main(sys.argv[1:])

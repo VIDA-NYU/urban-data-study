@@ -1,0 +1,68 @@
+v22h-ujnv	zip_code	1
+mupm-43n6	tran_zip4	22
+6iqh-u3hk	payee_zip4	22
+k78b-bnzt	business_zip	5	mailing_city_state_zip_code	14
+funx-qxxn	business_zip	7	mailing_city_state_zip_code	16
+dzre-gd7q	business_zip	4	mailing_city_state_zip_code	13
+qwgb-tu3g	tran_zip4	22
+ujme-i5np	zip_code	0
+e2x8-npup	business_zip	4	mailing_city_state_zip_code	13
+6ssu-ewuc	tran_zip4	22
+hmda-uywf	business_zip	7	mailing_city_state_zip_code	16
+z76i-7s65	zipcode	6
+phrj-5yd5	business_zip	3	mailing_city_state_zip_code	12
+fp2p-prbg	tran_zip4	22
+hbjm-s5ay	business_zip	3	mailing_city_state_zip_code	12
+n65z-9iyj	business_zip	4	mailing_city_state_zip_code	13
+whm4-mn72	business_zip	7	mailing_city_state_zip_code	16
+5ayi-he6v	zip	7
+pyxa-3r7p	payee_zip4	22
+v456-mgti	tran_zip4	22
+4phr-3hrm	loan_zip4	22
+rx2w-v8zb	mailing_address_city_state_and_zip_code	6	business_address_city_state_and_zip_code	8
+bgq6-5mf8	business_zip	4	mailing_city_state_zip_code	13
+nvpi-vhb7	business_zip	7	mailing_city_state_zip_code	16
+b6tj-gt35	permit_zipcode	11
+w3ep-wixv	tran_zip4	22
+tr8k-7cit	payee_zip4	22
+rzvw-zvmg	tran_zip4	22
+efrz-5mfq	business_zip	7	mailing_city_state_zip_code	16
+anpk-hx6u	zip	9
+mz4g-xxwd	business_zip	7	mailing_city_state_zip_code	16
+6jj7-u7ax	zip_code	11
+ntkt-myzv	tran_zip4	22
+q66q-d2tr	tran_zip4	22
+8ud4-mc82	business_zip	4	mailing_city_state_zip_code	13
+rynu-4e44	tran_zip4	22
+p5kp-5mtp	client_zip	8
+vsy2-vybn	tran_zip4	22
+aayf-qzg2	business_zip	3	mailing_city_state_zip_code	12
+gk2f-isrp	payee_zip4	22
+iuv4-tqzq	zip_code	11
+hc26-j9if	payee_zip4	22
+k4ji-djiq	business_zip	7	mailing_city_state_zip_code	16
+86nq-bynj	payee_zip4	22	bus_zip4	69
+4zbw-xuig	payee_zip4	16
+jyag-jj92	tran_zip4	22	intr_zip4	50
+by7b-r76m	tran_zip4	22
+dg5s-2n6f	business_zip	7	mailing_city_state_zip_code	16
+62ex-d3qk	loan_zip4	22
+crqn-k9bw	zip	9
+wy9w-f6fu	zipcode	6
+wrjq-a6r8	business_zip	4	mailing_city_state_zip_code	13
+2tgf-pc6f	business_zip	7	mailing_city_state_zip_code	16
+s57h-9wm9	mailing_address_city_state_and_zip_code	6	business_address_city_state_and_zip_code	8
+4q92-gm9f	vendor_zip	8
+gz8r-ag83	payee_zip4	22
+pn39-4xw4	tran_zip4	22
+y8r8-8ptg	tran_zip4	22
+p4sp-es3b	tran_zip4	22
+k76b-4yme	tran_zip4	22
+dvrf-izet	tran_zip4	22
+p3r9-xbpg	tran_zip4	22
+ehdn-tx7u	tran_zip4	22
+u4y3-k4vs	client_zip	8
+capd-mzck	tran_zip4	22
+4vqi-vw9j	tran_zip4	10
+nn8w-ruis	permit_zipcode	11
+ec3y-6ty9	loan_zip4	22

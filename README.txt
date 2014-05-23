@@ -1,7 +1,6 @@
 - download
   Download datasets in JSON format.
 
-
 - schema_similarity
   Compute the similarity between schemata.
 
