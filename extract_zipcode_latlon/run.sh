@@ -1,4 +1,4 @@
-OUTPUT="data"
+OUTPUT="data" #Directory to store the result
 mkdir $OUTPUT
 
 cat city_list.txt | while read LINE #

@@ -1,2 +1,2 @@
 HOWTORUN:
-  ./run.sh
+  $./run.sh

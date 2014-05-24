@@ -1,4 +1,7 @@
 import struct, datetime, decimal, itertools
+# dbfUtils.py
+# By Raymond Hettinger
+# http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/362715
 
 def dbfreader(f):
     """Returns an iterator over records in a Xbase DBF file.

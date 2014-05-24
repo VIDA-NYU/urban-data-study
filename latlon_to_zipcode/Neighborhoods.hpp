@@ -69,9 +69,6 @@ public:
     }
   }
 
-#ifdef __CUDACC__
-    __host__ __device__
-#endif
   static bool isInside(int nvert, float *vert, float testx, float testy)
   {
     if (nvert<=0) return true;
