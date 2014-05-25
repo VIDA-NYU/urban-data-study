@@ -14,7 +14,7 @@ Below is the brief description of each directory:
 ## metadata
  * Retrieve metadata including tags, schema, description using Socrata APIs. (Python)
 
-## tagcloud (
+# tagcloud 
  * (Figure 5) Generate tag cloud using tags associated with the dataset. (R)
  * Require result from metadata
 
