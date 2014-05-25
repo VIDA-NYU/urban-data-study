@@ -14,8 +14,9 @@ Below is the brief description of each directory:
 ## metadata
  * Retrieve metadata including tags, schema, description using Socrata APIs. (Python)
 
-## tagcloud (Require result from metadata)
+## tagcloud (
  * (Figure 5) Generate tag cloud using tags associated with the dataset. (R)
+ * Require result from metadata
 
 ## type_detection
  * Detect attribute type (Python)
@@ -23,11 +24,13 @@ Below is the brief description of each directory:
 ## barchart (Require result from type_detection)
  * (Figure 9) Generate a barchart of data type ratio across cities. (Python)
 
-## extract_zipcode_latlon (Require result from type_detection)
+## extract_zipcode_latlon 
  * Read result from type_detection and extract all lat/lon, zipcode values. (Python)
+ * Require result from type_detection
 
 ## latlon_to_zipcode
  * Convert lat/long to zipcode. (C++)
 
-## heatmap (Require result from extract_zipcode_latlon and latlon_to_zipcode)
+## heatmap 
  * (Figure 12) Generate a heat map of geographical coverage based on zip code values in NYC and Chicago. (Python)
+ * Require result from extract_zipcode_latlon and latlon_to_zipcode
