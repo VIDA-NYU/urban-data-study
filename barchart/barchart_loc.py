@@ -4,8 +4,6 @@
 ## All rights reserved.
 ## Contact: kien.pham@nyu.edu
 ##
-## This file is part of the VIDA team submission for the SIGMOD 2014 Programming Contest.
-##
 ## "Redistribution and use in source and binary forms, with or without 
 ## modification, are permitted provided that the following conditions are met:
 ##
