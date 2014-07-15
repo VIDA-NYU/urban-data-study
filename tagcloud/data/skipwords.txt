@@ -1,0 +1,4 @@
+tif
+kml
+kmz
+gis

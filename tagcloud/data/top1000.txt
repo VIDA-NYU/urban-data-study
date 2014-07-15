@@ -1,209 +1,209 @@
- restaurant geodata heatlh
- unclaimed property unclaimed property
- speed transportation citation
- salary city employee
- crime police victim
- salary city employee
- 311 csr
- arrests crime police
- map building shape
- liquor license permit
- map parcel shape
- crime police gun
- government agency agencies mayoral offices offices departments boards commissions elected officials
- crime police victim
- neighborhoods census 2010 kmz
- minority contracts mwboo mbe wbe businesses women
- salary city employee
- food restaurants health inspections violations
- 311 service requests mayor's office
- police crime incidents safety
- trash recycling sanitation public works
- personnel
- crime police
- permits
- crime police
- facilities gis
- food inspections
- tif
- public safety facilities gis
- housing
- buildings
- streets gis
- crime police
- facilities gis
- business licenses current
- report cards cps
- crime police
- vehicles streets
- crime police
- crime police
- licenses transportation
- income education poverty unemployment
- deprecated gis shapefiles
- business licenses
- payments vendors
- boundaries gis shapefiles
- boundaries gis shapefiles
- crime police
- boundaries gis shapefiles
- garbage sanitation complaints
- boundaries gis shapefiles
- trees
- boundaries gis shapefiles
- business licenses
- crime police
- boundaries gis shapefiles on_mondara
- boundaries gis census shapefiles on_mondara
- boundaries gis shapefiles on_mondara
- ward gis facilities
- violations inspections
- city-owned land vacant property
- streets gis shapefiles
- contracts procurement
- facilities gis
- boundaries gis shapefiles on_mondara
- lobbyists ethics
- business licenses
- pedestrians gis shapefiles sustainability on_mondara
- rodents rats
- gis shapefiles on_mondara
- personnel reimbursements
- garbage
- bicycling gis shapefiles sustainability
- forest preserves gis shapefiles sustainability
- cta public transit ridership
- facilities gis shapefiles
- streets vehicles
- boundaries gis census shapefiles on_mondara
- gis shapefiles sustainability water
- graffiti
- boundaries gis shapefiles
- streets pot holes
- parks facilities gis shapefiles sustainability
- gis shapefiles cta rail sustainability
- boundaries gis shapefiles
- rail gis shapefiles
- boundaries gis census shapefiles on_mondara
- tif boundaries gis on_mondara shapefiles
- facilities gis shapefiles
- gis shapefiles cta rail sustainability
- streets boundaries gis shapefiles
- ust ast tanks
- gis shapefiles bus cta sustainability
- gis shapefiles bus cta sustainability
- cta public transit ridership sustainability
- boundaries gis kml
- boundaries gis kml
- environmental complaints
- environmental permits
- environmental inspections
- streets alleys lights
- streets lights
- cta public transit rail gis kml sustainability
- cta public transit bus gis kml sustainability
- libraries visitors
- traffic sustainability
- snow removal schedule
- 2013 edmonton election
- alcohol wine beer license shipping manufacturer missouri atc alcohol and tobacco control
- phone rest api
- alcohol wine beer license shipping manufacturer missouri atc alcohol and tobacco control
- alcohol license liquor county clerk missouri weekly
- new liquor license missouri alcohol tobacco control
- new orleans address
- new orleans street centerlines
- new orleans census 2010
- new orleans planning zoning data
- 911 police crime incident response
- seattle 911 fire dispatch e911 sfd mobile
- crime police police report
- neighborhood groups blogs wikis facebook twitter
- permit construction dpd
- crime violent seattle police
- 911 police crime incident response
- crime violent seattle
- city of seattle seattle government transportation parking rpz signs parking zones
- dpd code violation code enforcement
- dpd permit master use permit plan review
- grants matching funds neighborhood neighborhoods
- administrative and political boundaries municipal boundary corporate limits seattle city limits
- business license
- traffic cameras traffic
- 911 police crime incident response
- sfpd
- film locations movies actors directors
- planning neighborhoods neighborhood organizations neighborhood groups
- sfpd
- police crime san francisco incident
- san francisco environmental health department of public health dph sfdph restaurant scores sanitary scores inspections
- local business enterprise human rights commission city vendors lbe puc-lbe npe
- sfmta sfpark parking parking garages parking lots garages
- equal benefits compliant vendors chapter 12b
- wellington village vendors purchasing list business
- wifi wireless map cartography doitt gis hot spot geographic services location access telecommunication
- 311 311 service requests 2010 2011 2012 service request status all service requests clean web
- mta metropolitan transportation authority jobs and economic mobility location map cartography basemap transit transportation train subway travel entrance station
- traffic vehicles route schedules clean web
- restaurant inspection results restaurant inspection grades results cafe inspection violation nyc health dohmh mental hygeine department of health doh healthy living food
- lifelong learning
- jobs tech jobs and economic mobility
- film movie scene scenes from the city
- boundary district community demography demographic statistic youth development zip code zip code area lifelong learning
- department of finance finance dof money tickets fines traffic parking ticket violation violations
- fire department fdny fd fires community board station fire station fire house emergency 911
- sanitation scout graffiti complaint request public clean web
- vehicles car bus automobile truck clean web
- opendata catalog catalog dcat datasets directory nyc opendata catalog masterlist total inventory inventory all data
- 311 311 service requests 2010 2011 service request status all service requests
- facility facilities health patient healthcare healthcare provider hospital medicare medicaid healthy living
- building buildings permit permits dob building permits clean web
- parking sign regulation car automobile traffic traffic sign travel status signage street curb clean web
- new york nycgo new york & company new york & co. co. museum museums gallery galleries xml data nyc the city
- jobs and economic mobility education school services geographic location map cartography after school after-school program doitt gis
- restaurant license café food meal sidewalk consumer affairs dca
- energy power environment planning construction housing property
- dpr landcover tree canopy grass water buildings roads paved raster healthy living
- doitt gis
- department of education education board of ed school schools p.s. jhs is high school junior high school elementary learning lifelong learning
- tlc taxi medallion cab license driver
- map location cartography emergency oem hospital patient ambulance dispatch ems 911 physician doctor nurse specialist intensive care icu er injured injury sick health public safety hospitals
- retail sale sell license store electronics consumer affairs dca
- laundry license laundromat clothing washing cleaning clothes consumer affairs dca
- taxi taxicab tlc limousine taxi driver medallion taxi license driver
- business taxi vehicle transportation license
- business taxi vehicle transportation license
- 311 311 service requests 2009 all service requests
- doitt gis
- library catalog catalogue brooklyn book author title edition publisher
- times square alliance times square crossroads crossroads of the world nyc new york city new york manhattan theater food screens pedestrian entertainment tourism
- parking license parking lot lot park
- transportation taxi limousine medallion drive driver
- transportation taxi limousine medallion
- retail sale sell license store electronics consumer affairs dca
- doitt gis location map cartography basemap miny vendor made in ny incentive program incentive program development economic economy
- taxi taxicab tlc limousine taxi driver medallion taxi license driver
- 311 311 service requests 2004 all service requests
- 311 311 service requests 2008 all service requests
- union square partnership usp business directory 14th street
- department of finance finance dof manhattan borough statement of account
- 311 311 service requests 2006 all service requests
- department of finance finance dof brooklyn borough statement of account
- department for the aging dfta senior citizen elderly aging directory
- grand central partnership business directory address
- taxi taxicab tlc limousine taxi driver medallion taxi license driver
- signs dob buildings
- wholesale vendor license registration trade waste approved
- 311 311 service requests 2005 all service requests
- 311 311 service requests 2007 all service requests
- merchants business businesses directory directories
- dca business license consumer affairs jobs and economic mobility
- department of finance finance dof queens borough statement of account
- dca business license consumer affairs
- department of finance finance dof bronx borough statement of account
- 311 311 service requests 2010 2011 service request status all service requests
- 311 311 service requests 2010 2011 2012 service request status all service requests
- energy power environment planning construction housing property
- ged plus locations doe education jobs and economic mobility
- 311 311 service requests 2010 2011 2012 service request status all service requests clean web
- taxi taxicab tlc limousine taxi driver medallion taxi license driver
+restaurant geodata heatlh
+unclaimed property unclaimed property
+speed transportation citation
+salary city employee
+crime police victim
+salary city employee
+311 csr
+arrests crime police
+map building shape
+liquor license permit
+map parcel shape
+crime police gun
+government agency agencies mayoral offices offices departments boards commissions elected officials
+crime police victim
+neighborhoods census 2010 kmz
+minority contracts mwboo mbe wbe businesses women
+salary city employee
+food restaurants health inspections violations
+311 service requests mayor's office
+police crime incidents safety
+trash recycling sanitation public works
+personnel
+crime police
+permits
+crime police
+facilities gis
+food inspections
+tif
+public safety facilities gis
+housing
+buildings
+streets gis
+crime police
+facilities gis
+business licenses current
+report cards cps
+crime police
+vehicles streets
+crime police
+crime police
+licenses transportation
+income education poverty unemployment
+deprecated gis shapefiles
+business licenses
+payments vendors
+boundaries gis shapefiles
+boundaries gis shapefiles
+crime police
+boundaries gis shapefiles
+garbage sanitation complaints
+boundaries gis shapefiles
+trees
+boundaries gis shapefiles
+business licenses
+crime police
+boundaries gis shapefiles on_mondara
+boundaries gis census shapefiles on_mondara
+boundaries gis shapefiles on_mondara
+ward gis facilities
+violations inspections
+city-owned land vacant property
+streets gis shapefiles
+contracts procurement
+facilities gis
+boundaries gis shapefiles on_mondara
+lobbyists ethics
+business licenses
+pedestrians gis shapefiles sustainability on_mondara
+rodents rats
+gis shapefiles on_mondara
+personnel reimbursements
+garbage
+bicycling gis shapefiles sustainability
+forest preserves gis shapefiles sustainability
+cta public transit ridership
+facilities gis shapefiles
+streets vehicles
+boundaries gis census shapefiles on_mondara
+gis shapefiles sustainability water
+graffiti
+boundaries gis shapefiles
+streets pot holes
+parks facilities gis shapefiles sustainability
+gis shapefiles cta rail sustainability
+boundaries gis shapefiles
+rail gis shapefiles
+boundaries gis census shapefiles on_mondara
+tif boundaries gis on_mondara shapefiles
+facilities gis shapefiles
+gis shapefiles cta rail sustainability
+streets boundaries gis shapefiles
+ust ast tanks
+gis shapefiles bus cta sustainability
+gis shapefiles bus cta sustainability
+cta public transit ridership sustainability
+boundaries gis kml
+boundaries gis kml
+environmental complaints
+environmental permits
+environmental inspections
+streets alleys lights
+streets lights
+cta public transit rail gis kml sustainability
+cta public transit bus gis kml sustainability
+libraries visitors
+traffic sustainability
+snow removal schedule
+2013 edmonton election
+alcohol wine beer license shipping manufacturer missouri atc alcohol and tobacco control
+phone rest api
+alcohol wine beer license shipping manufacturer missouri atc alcohol and tobacco control
+alcohol license liquor county clerk missouri weekly
+new liquor license missouri alcohol tobacco control
+new orleans address
+new orleans street centerlines
+new orleans census 2010
+new orleans planning zoning data
+911 police crime incident response
+seattle 911 fire dispatch e911 sfd mobile
+crime police police report
+neighborhood groups blogs wikis facebook twitter
+permit construction dpd
+crime violent seattle police
+911 police crime incident response
+crime violent seattle
+city of seattle seattle government transportation parking rpz signs parking zones
+dpd code violation code enforcement
+dpd permit master use permit plan review
+grants matching funds neighborhood neighborhoods
+administrative and political boundaries municipal boundary corporate limits seattle city limits
+business license
+traffic cameras traffic
+911 police crime incident response
+sfpd
+film locations movies actors directors
+planning neighborhoods neighborhood organizations neighborhood groups
+sfpd
+police crime san francisco incident
+san francisco environmental health department of public health dph sfdph restaurant scores sanitary scores inspections
+local business enterprise human rights commission city vendors lbe puc-lbe npe
+sfmta sfpark parking parking garages parking lots garages
+equal benefits compliant vendors chapter 12b
+wellington village vendors purchasing list business
+wifi wireless map cartography doitt gis hot spot geographic services location access telecommunication
+311 311 service requests 2010 2011 2012 service request status all service requests clean web
+mta metropolitan transportation authority jobs and economic mobility location map cartography basemap transit transportation train subway travel entrance station
+traffic vehicles route schedules clean web
+restaurant inspection results restaurant inspection grades results cafe inspection violation nyc health dohmh mental hygeine department of health doh healthy living food
+lifelong learning
+jobs tech jobs and economic mobility
+film movie scene scenes from the city
+boundary district community demography demographic statistic youth development zip code zip code area lifelong learning
+department of finance finance dof money tickets fines traffic parking ticket violation violations
+fire department fdny fd fires community board station fire station fire house emergency 911
+sanitation scout graffiti complaint request public clean web
+vehicles car bus automobile truck clean web
+opendata catalog catalog dcat datasets directory nyc opendata catalog masterlist total inventory inventory all data
+311 311 service requests 2010 2011 service request status all service requests
+facility facilities health patient healthcare healthcare provider hospital medicare medicaid healthy living
+building buildings permit permits dob building permits clean web
+parking sign regulation car automobile traffic traffic sign travel status signage street curb clean web
+new york nycgo new york & company new york & co. co. museum museums gallery galleries xml data nyc the city
+jobs and economic mobility education school services geographic location map cartography after school after-school program doitt gis
+restaurant license café food meal sidewalk consumer affairs dca
+energy power environment planning construction housing property
+dpr landcover tree canopy grass water buildings roads paved raster healthy living
+doitt gis
+department of education education board of ed school schools p.s. jhs is high school junior high school elementary learning lifelong learning
+tlc taxi medallion cab license driver
+map location cartography emergency oem hospital patient ambulance dispatch ems 911 physician doctor nurse specialist intensive care icu er injured injury sick health public safety hospitals
+retail sale sell license store electronics consumer affairs dca
+laundry license laundromat clothing washing cleaning clothes consumer affairs dca
+taxi taxicab tlc limousine taxi driver medallion taxi license driver
+business taxi vehicle transportation license
+business taxi vehicle transportation license
+311 311 service requests 2009 all service requests
+doitt gis
+library catalog catalogue brooklyn book author title edition publisher
+times square alliance times square crossroads crossroads of the world nyc new york city new york manhattan theater food screens pedestrian entertainment tourism
+parking license parking lot lot park
+transportation taxi limousine medallion drive driver
+transportation taxi limousine medallion
+retail sale sell license store electronics consumer affairs dca
+doitt gis location map cartography basemap miny vendor made in ny incentive program incentive program development economic economy
+taxi taxicab tlc limousine taxi driver medallion taxi license driver
+311 311 service requests 2004 all service requests
+311 311 service requests 2008 all service requests
+union square partnership usp business directory 14th street
+department of finance finance dof manhattan borough statement of account
+311 311 service requests 2006 all service requests
+department of finance finance dof brooklyn borough statement of account
+department for the aging dfta senior citizen elderly aging directory
+grand central partnership business directory address
+taxi taxicab tlc limousine taxi driver medallion taxi license driver
+signs dob buildings
+wholesale vendor license registration trade waste approved
+311 311 service requests 2005 all service requests
+311 311 service requests 2007 all service requests
+merchants business businesses directory directories
+dca business license consumer affairs jobs and economic mobility
+department of finance finance dof queens borough statement of account
+dca business license consumer affairs
+department of finance finance dof bronx borough statement of account
+311 311 service requests 2010 2011 service request status all service requests
+311 311 service requests 2010 2011 2012 service request status all service requests
+energy power environment planning construction housing property
+ged plus locations doe education jobs and economic mobility
+311 311 service requests 2010 2011 2012 service request status all service requests clean web
+taxi taxicab tlc limousine taxi driver medallion taxi license driver
