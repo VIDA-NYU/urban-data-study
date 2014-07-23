@@ -82,7 +82,7 @@ def main(argv):
       if js[j].has_key('viewCount'):
         id_viewcount_f.write(id + "\t" +  str(js[j]["viewCount"]) + "\n")
       else:
-        id_viewcounnt_f.write(id + "\tnull\n")
+        id_viewcount_f.write(id + "\tnull\n")
       
       #Download count
       if js[j].has_key('downloadCount'):

@@ -4,6 +4,7 @@ from os import walk
 import re
 import datetime
 import os.path
+from matplotlib.ticker import AutoMinorLocator
 
 def add_date(filename, date2count):
   with open(filename) as lines:
@@ -57,13 +58,25 @@ def main(argv):
   for (date, count) in date_count:
     idx += 1
     s += int(count)
-    if idx%4==0:
+    if (idx%12==0):
+      #radius.append(idx)
+  #    date = date[:4] + "/" + date[4:]
+      date = date[:4]
+    else:
+      date = ""
+    if (idx%6==0):
       radius.append(idx)
-      date = date[:4] + "/" + date[4:]
       dates.append(date)
       area.append(s)
+
+  #minorLocator = AutoMinorLocator()
+  #fig, ax = plt.subplots()
+  #ax.xaxis.set_minor_locator(minorLocator)
+  #plt.tick_params(which='major', length=8)
+  #plt.tick_params(which='minor', length=4, color='r')
+
   plt.xticks(radius, dates)
-  plt.xticks(rotation=50)
+#  plt.xticks(rotation=50)
   plt.plot(radius, area)
   plt.xlabel('Timeline')
   plt.ylabel('Number of tables')
