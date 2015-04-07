@@ -3,5 +3,12 @@
 - If point.txt and bbox.csv are not existed in converted_shapefile/
  + Run $./convert.sh to convert original shapefile to point.txt and bbox.csv
 - Compile: run $make
-- Run a test: $./zipcode 40.667098 -73.982363
-Or Convert all: $./zipcode (This mode will convert all lat/long in files listed in latlon.txt)
+- Run a test: 
+  
+ 	$./zipcode 40.667098 -73.982363
+
+- Run a full conversion: 
+
+	$./zipcode 
+
+ + Input: latlon.txt: each line in this file refers to a file that contain lat/lon. Each line of lat/lon file has the format: lat,lon 

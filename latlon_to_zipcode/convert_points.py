@@ -1,6 +1,6 @@
 output = open("converted_shapefile/point.txt", "w")
 output.write("33144\n")
-with open("converted_shapefile/point.csv") as lines:
+with open("converted_shapefile/points.csv") as lines:
 	for line in lines:
 		a = line.strip("\n").split("\t")
 		zipcode = a[0]

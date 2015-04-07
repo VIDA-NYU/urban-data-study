@@ -5,7 +5,7 @@
 #include <fstream>
 #include <stdlib.h>
 #include <iostream>
-#include <cstring>
+
 KdTreeBB::Item* loadItems(char* file, KdTreeBB::Item* &items, int &size)
 {
 	std::ifstream in(file);
@@ -38,10 +38,10 @@ KdTreeBB::Item* loadItems(char* file, KdTreeBB::Item* &items, int &size)
 void Initialize(Neighborhoods &nb, KdTreeBB &kdtree)
 {
 	//Create KDTree
-  int size;
-  KdTreeBB::Item* items;
-  loadItems("converted_shapefile/bbox.csv", items, size);
-  kdtree.createKdTree(items, size);
+    int size;
+    KdTreeBB::Item* items;
+    loadItems("converted_shapefile/bboxes.csv", items, size);
+    kdtree.createKdTree(items, size);
 
 	nb.loadFromFile("converted_shapefile/point.txt");
 }
@@ -50,30 +50,38 @@ int searchZipCode(float lat, float lon, Neighborhoods &nb, const KdTreeBB &kdtre
 {
 	KdTreeBB::Query q;
 	q.setViewport(lon, lat, lon, lat);
-  KdTreeBB::QueryResult result;
-  kdtree.query(q, result);
+        KdTreeBB::QueryResult result;
+        kdtree.query(q, result);
 
 	for (int i=0; i<result.size();i++)
-		if (nb.isInsidePoly(result[i], lat, lon)) return result[1];
+    {
+		if (nb.isInsidePoly(result[i], lat, lon)) return result[i];
+	}
 	return -1;
 }
 
 void convert(const char *filename, Neighborhoods &nb, const KdTreeBB &kdtree)
 {
-	std::ifstream in(filename);
+    //This function converts all lat/lon in files list in filename (filename contains list of files) and store the result in vector zips
+	std::ifstream in(filename);//Input
 	std::string line;
-	std::set<int> zips;
+	std::vector<int> zips;//Output
+
+	std::string output = std::string(filename) + std::string(".zipcode");
+	std::ofstream outFile;
+	outFile.open(output.c_str());
+
 
 	float lat, lon;
 	while(std::getline(in, line))
 	{
 		try
 		{
-			std::cout<<line<<std::endl;
 			sscanf(line.c_str(), "%f,%f", &lat, &lon);
 			int zip = searchZipCode(lat, lon, nb, kdtree);
 			if (zip != -1)
-				zips.insert(zip);
+				zips.push_back(zip);
+			outFile<<zip<<std::endl;	
 		}
 		catch (...)
 		{
@@ -82,12 +90,12 @@ void convert(const char *filename, Neighborhoods &nb, const KdTreeBB &kdtree)
 	}
 
 	//Write zip code to file
-	std::string output = std::string(filename) + std::string(".zipcode");
-	std::ofstream outFile;
-	outFile.open(output.c_str());
-	for (std::set<int>::iterator it=zips.begin(); it!=zips.end(); ++it)
-		if (*it > 0)
-			outFile <<*it<<std::endl;
+	// std::string output = std::string(filename) + std::string(".zipcode");
+	// std::ofstream outFile;
+	// outFile.open(output.c_str());
+	// for (std::set<int>::iterator it=zips.begin(); it!=zips.end(); ++it)
+	// 	if (*it > 0)
+	// 		outFile <<*it<<std::endl;
 	outFile.close();
 }
 
@@ -116,7 +124,22 @@ int main(int argc, char** argv)
 	  float lon = atof(argv[2]); 
 	  fprintf(stderr, "Zipcode: %d\n", searchZipCode(lat, lon, nb, kdtree));
   }
-  else
-	  convert_all("latlon.txt", nb, kdtree);
+	// else
+	//   convert_all("latlon.txt", nb, kdtree);
+	else
+	  convert("intersections_manhattan.csv", nb, kdtree);
 	return 0;
 }
+// int main(int argc, char** argv)
+// {
+// 	KdTreeBB kdtree;
+// 	Neighborhoods nb;
+// 	Initialize(nb, kdtree);
+	
+// 	//search Kdtree
+// 	float lat = atof(argv[1]);
+// 	float lon = atof(argv[2]); 
+// 	fprintf(stderr, "Zipcode: %f, %f, %d\n", lat, lon, searchZipCode(lat, lon, nb, kdtree));
+
+// 	return 0;
+// }
